@@ -3843,7 +3843,7 @@ input, select, textarea {
 			body.is-preload #wrapper > section.intro > .content {
 				transform: translateY(-1rem);
 			}
-
+ 
 		@media screen and (max-width: 1280px) {
 
 			#wrapper > section.intro > header > * {
